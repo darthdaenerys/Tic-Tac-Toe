@@ -19,13 +19,13 @@ Here, is a game of tic tac toe for 2 players implemented using OpenCV. I have se
 
 - The computer randomly assigns one of the symbols to player1 and other to player2.
 - The players may start playing by just clicking on the cell they wish to put their symbol on.
+- The game calculates scores for both the players and displays as a table on the side.
 
 ![](Capture-2.png)
 
-- The game calculates scores for both the players and displays as a table on the side.
 - If any player wins, you'll see an animated line connecting the 3 same symbols.
 - The green coloured highlighted box on the right tells which player has the move and it switches based on the turn.
+- If the game is a draw, then you don't have to worry about running the program again. The computer would clean up the board for you and you're ready for another play :)
+- If you're done playing, press 'q' on your keyboard to quit.
 
 ![](Capture-3.png)
-
-- If you're done playing, press 'q' on your keyboard to quit.
