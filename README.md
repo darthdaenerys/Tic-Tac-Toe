@@ -4,7 +4,7 @@
 
 It is mostly placed by young children, but many a time, you can also spot adults playing this to cut-off boredom. This game is quite handy and is played anywhere, with just two players. Each player has to choose one symbol between X and O. The game is played in the 3×3 grid. Each player can place only one symbol per turn and then the turn gets relayed to the other player.
 
-## **Game paradigm**:
+## **Game paradigm**
 
 - **Winning:** Each of the players tries to place their symbols in three adjacent horizontal, vertical, or diagonal cells. One who achieves this alignment earlier is the winner. While the second Player tries to interrupt Player 1’s alignment by placing his own symbols in between the symbols of Player 1.
 - **Loosing:** If your competitor gets the required alignment of symbols first, you lose.
