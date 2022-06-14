@@ -30,4 +30,7 @@ Here, is a game of tic tac toe for 2 players implemented using OpenCV. I have se
 
 ![](Capture-3.png)
 
-
+## **Tools**
+- Python v3.9.7
+- Visual Studio Code
+- OpenCV-Python v4.5.5
