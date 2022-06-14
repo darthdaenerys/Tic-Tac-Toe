@@ -13,7 +13,7 @@ It is mostly placed by young children, but many a time, you can also spot adults
 ## **About it**
 Due to its simplicity, tic-tac-toe is considered to be a perfect pedagogical tool for teaching logic-building and sportsmanship to children. Technically, there is much more to it, you can create a game tree using artificial intelligence that shows you the possibility of all combinations of the symbols and cells. If the game is played optimally by both the players, the game will end in a draw. This makes tic-tac-toe a futile game.
 
-Here, is a game of tic tac toe for 2 players implemented using OpenCV. I have seen a lot of tic tac toe coded for the terminal and I personally never enjoyed playing as instead of just a simple mouse click you have to enter  the row and column number.
+Here, is a game of tic tac toe for 2 players implemented using OpenCV. I have seen a lot of tic tac toe as CLI application with I/O interface and I personally never enjoyed playing as instead of just a simple mouse click you have to enter the row and column number.
 
 ![](Capture-1.png)
 
@@ -26,6 +26,8 @@ Here, is a game of tic tac toe for 2 players implemented using OpenCV. I have se
 - If any player wins, you'll see an animated line connecting the 3 same symbols.
 - The green coloured highlighted box on the right tells which player has the move and it switches based on the turn.
 - If the game is a draw, then you don't have to worry about running the program again. The computer would clean up the board for you and you're ready for another play :)
-- If you're done playing, press 'q' on your keyboard to quit.
+- If you're done playing, press ```q``` on your keyboard to quit.
 
 ![](Capture-3.png)
+
+
